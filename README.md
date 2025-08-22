@@ -1,6 +1,6 @@
-# Receipt Program (Dart)
+# Simple Cashier
 
-A simple receipt generator application built with **Dart**.  
+A simple cashier built with **Dart**.  
 This was one of my first projects while learning to code, before moving on to Java.  
 The program allows users to input purchased items, quantities, and prices, then automatically calculates subtotals, discounts, and the final total.
 
