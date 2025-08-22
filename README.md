@@ -26,4 +26,4 @@ The program allows users to input purchased items, quantities, and prices, then 
 
 ### Run the program
 ```bash
-dart run receipt.dart
+dart run Cashier.dart
